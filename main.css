@@ -8,5 +8,9 @@ div{
     }
 
     .test {
-        color: green;
+        color: Blue;
+    }
+
+    h3 {
+        color: gray;
     }
